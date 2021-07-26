@@ -3,11 +3,11 @@
 
 # How to Use 
 
-1.Select your choice(income or Expense)
-2.Select date
-3.Input amount you want
-4.Leave some note in the note box if you want to
-5.Make sure to click confirm button
+1. Select your choice(income or Expense)
+2. Select date
+3. Input amount you want
+4. Leave some note in the note box if you want to
+5. Make sure to click confirm button
 
 ## Project setup
 ```
