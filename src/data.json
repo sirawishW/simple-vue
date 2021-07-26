@@ -1,0 +1,34 @@
+{
+    "data": [
+      {
+        "date": "2021-07-06",
+        "amount": "150",
+        "note": "Spaghetti",
+        "category": "expense"
+      },
+      {
+        "date": "2021-07-15",
+        "amount": "300",
+        "note": "Salmon",
+        "category": "expense"
+      },
+      {
+        "date": "2021-07-23",
+        "amount": "4000",
+        "note": "Salary",
+        "category": "income"
+      },
+      {
+        "date": "2021-07-25",
+        "amount": "1500",
+        "note": "Sell cookies",
+        "category": "income"
+      },
+      {
+        "date": "2021-07-26",
+        "amount": "200",
+        "note": "Help mon",
+        "category": "income"
+      }
+    ]
+  }

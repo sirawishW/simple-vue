@@ -1,4 +1,13 @@
+6210406700 Sirawish Wongsuthipakorn
 # income-and-expense
+
+# How to Use 
+
+1.Select your choice(income or Expense)
+2.Select date
+3.Input amount you want
+4.Leave some note in the note box if you want to
+5.Make sure to click confirm button
 
 ## Project setup
 ```
@@ -13,11 +22,6 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
 ```
 
 ### Customize configuration
